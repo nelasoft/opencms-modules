@@ -1,0 +1,43 @@
+------------------------------------
+# 11.04.2013 - Miroslav Šach
+ oprava v souborech:
+ \workplace\commons\messages_cs.properties
+ \workplace\explorer\messages_cs.properties
+ \workplace\tools\content\messages_cs.properties
+
+------------------------------------
+# 28.03.2013 - Miroslav Šach, verze 1.0.2
+ oprava v souborech:
+ \ade\galleries\clientmessages_cs.properties
+ \ade\galleries\messages_cs.properties
+ \ade\sitemap\clientmessages_cs.properties
+ \db\messages_cs.properties
+ \main\messages_cs.properties
+ \search\messages_cs.properties
+ \synchronize\messages_cs.properties
+ \workplace\messages_cs.properties
+ \workplace\commons\messages_cs.properties
+ \xml\containerpage\messages_cs.properties
+
+ nové soubory:
+ \ade\galleries\clientmessages_cs.properties
+ \ade\galleries\messages_cs.properties
+ \ade\sitemap\clientmessages_cs.properties
+ \db\messages_cs.properties
+ \main\messages_cs.properties
+ \search\messages_cs.properties
+ \synchronize\messages_cs.properties
+ \workplace\messages_cs.properties
+ \workplace\commons\messages_cs.properties
+ \xml\containerpage\messages_cs.properties
+
+------------------------------------
+# 21.03.2013 - Miroslav Šach, verze 1.0.1
+
+ oprava v souboru:
+ \workplace\list\messages_cs.properties 
+
+------------------------------------
+# 18.03.2013 - Miroslav Šach, verze 1.0.0
+
+ zkopírováno z verze 8.5
