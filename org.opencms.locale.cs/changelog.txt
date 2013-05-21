@@ -1,3 +1,7 @@
+# 21.05.2013 - Filip Kratochvil
+- pøidána lokalizace pro editor TinyMCE
+- oprava souboru manifest.xml
+
 ------------------------------------
 # 11.04.2013 - Miroslav Šach
  oprava v souborech:
