@@ -1,3 +1,3 @@
 nelasoft-v8-modules
 ===================
-Czech localization for OpenCms.
+NELASOFT OpenCms 8.x modules.
