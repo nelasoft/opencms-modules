@@ -1,6 +1,62 @@
-# 21.05.2013 - Filip Kratochvil
-- pøidána lokalizace pro editor TinyMCE
-- oprava souboru manifest.xml
+------------------------------------
+# 09.04.2014 - Miroslav Šach
+ úpravy v souborech: 
+ 
+(odstranìní zalomení øádku \n)
+ \widgets\messages_cs.properties
+ \workplace\editors\messages_cs.properties
+(pøevod do ascii)
+ \workplace\editors\directedit\messages_cs.properties
+
+(Pøidání souboru)
+ \system\workplace\resources\components\js_calendar\lang\calendar-cs.js 
+
+
+------------------------------------
+# 28.02.2014 - Miroslav Šach
+ úpravy v souborech:
+ 
+ \ade\config\workplace_cs.properties
+ \ade\containerpage\clientmessages_cs.properties
+ \ade\containerpage\messages_cs.properties
+ \ade\contenteditor\clientmessages_cs.properties
+ \ade\galleries\clientmessages_cs.properties
+ \ade\galleries\messages_cs.properties
+ \ade\publish\clientmessages_cs.properties
+ \ade\publish\messages_cs.properties
+ \ade\sitemap\clientmessages_cs.properties
+ \ade\upload\clientmessages_cs.properties
+ \ade\upload\messages_cs.properties
+ \db\messages_cs.properties
+ \db\generic\messages_cs.properties
+ \flex\messages_cs.properties
+ \gwt\clientmessages_cs.properties
+ \gwt\messages_cs.properties
+ \i18n\messages_cs.properties
+ \jsp\messages_cs.properties
+ \main\messages_cs.properties
+ \search\messages_cs.properties
+ \security\messages_cs.properties
+ \setup\messages_cs.properties
+ \setup\xml\messages_cs.properties
+ \site\messages_cs.properties
+ \widgets\messages_cs.properties
+ \workplace\messages_cs.properties
+ \workplace\editors\messages_cs.properties
+ \workplace\editors\directedit\messages_cs.properties
+ \workplace\explorer\messages_cs.properties
+ \workplace\tools\content\messages_cs.properties
+ \workplace\tools\content\check\messages_cs.properties
+ \workplace\tools\content\convertxml\messages_cs.properties
+ \workplace\tools\content\languagecopy\messages_cs.properties
+ \workplace\tools\content\propertyviewer\messages_cs.properties
+ \workplace\tools\content\updatexml\messages_cs.properties
+ \workplace\tools\modules\messages_cs.properties
+ \workplace\tools\searchindex\sourcesearch\messages_cs.properties
+ \workplace\tools\sites\messages_cs.properties
+ \workplace\tools\workplace\broadcast\messages_cs.properties
+ \xml\messages_cs.properties
+ \xml\containerpage\messages_cs.properties
 
 ------------------------------------
 # 11.04.2013 - Miroslav Šach
