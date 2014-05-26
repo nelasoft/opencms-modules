@@ -1,3 +1,3 @@
-nelasoft-v8-modules
+opencms-modules
 ===================
-NELASOFT OpenCms 8.x modules.
+NELASOFT OpenCms Modules
