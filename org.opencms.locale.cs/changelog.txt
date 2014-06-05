@@ -1,4 +1,11 @@
 ------------------------------------
+# 06.05.2014 - Miroslav Šach
+ úpravy v souborech: 
+ 
+(Ostranìní souboru)
+ \system\workplace\resources\components\js_calendar\lang\calendar-cs.js 
+
+------------------------------------
 # 09.04.2014 - Miroslav Šach
  úpravy v souborech: 
  
