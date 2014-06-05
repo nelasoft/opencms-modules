@@ -26,6 +26,7 @@
 		</exportpoints>
 		<resources>
 			<resource uri="/system/workplace/locales/cs/messages/"/>
+			<resource uri="/system/workplace/resources/components/js_calendar/lang/calendar-cs.js"/>
 			<resource uri="/system/workplace/resources/editors/tinymce/jscripts/tiny_mce/langs/cs.js"/>
 			<resource uri="/system/workplace/resources/editors/tinymce/jscripts/tiny_mce/themes/advanced/langs/cs.js"/>
 			<resource uri="/system/workplace/resources/editors/tinymce/jscripts/tiny_mce/themes/advanced/langs/cs_dlg.js"/>
@@ -4180,6 +4181,78 @@
 				<property>
 					<name>Title</name>
 					<value><![CDATA[cs]]></value>
+				</property>
+			</properties>
+			<relations/>
+			<accesscontrol/>
+		</file>
+		<file>
+			<destination>system/workplace/resources</destination>
+			<type>folder</type>
+			<uuidstructure>82c16052-11b7-11db-91cd-fdbae480bac9</uuidstructure>
+			<datelastmodified>Mon, 27 Mar 2006 12:00:00 GMT</datelastmodified>
+			<userlastmodified>Admin</userlastmodified>
+			<datecreated>Mon, 27 Jun 2005 08:00:00 GMT</datecreated>
+			<usercreated>Admin</usercreated>
+			<flags>0</flags>
+			<properties/>
+			<relations/>
+			<accesscontrol/>
+		</file>
+		<file>
+			<destination>system/workplace/resources/components</destination>
+			<type>folder</type>
+			<uuidstructure>833afc9a-11b7-11db-91cd-fdbae480bac9</uuidstructure>
+			<datelastmodified>Mon, 27 Mar 2006 12:00:00 GMT</datelastmodified>
+			<userlastmodified>Admin</userlastmodified>
+			<datecreated>Mon, 27 Jun 2005 08:00:00 GMT</datecreated>
+			<usercreated>Admin</usercreated>
+			<flags>0</flags>
+			<properties/>
+			<relations/>
+			<accesscontrol/>
+		</file>
+		<file>
+			<destination>system/workplace/resources/components/js_calendar</destination>
+			<type>folder</type>
+			<uuidstructure>833d6d9c-11b7-11db-91cd-fdbae480bac9</uuidstructure>
+			<datelastmodified>Mon, 27 Mar 2006 12:00:00 GMT</datelastmodified>
+			<userlastmodified>Admin</userlastmodified>
+			<datecreated>Mon, 27 Jun 2005 08:00:00 GMT</datecreated>
+			<usercreated>Admin</usercreated>
+			<flags>0</flags>
+			<properties/>
+			<relations/>
+			<accesscontrol/>
+		</file>
+		<file>
+			<destination>system/workplace/resources/components/js_calendar/lang</destination>
+			<type>folder</type>
+			<uuidstructure>83553b6c-11b7-11db-91cd-fdbae480bac9</uuidstructure>
+			<datelastmodified>Mon, 27 Mar 2006 12:00:00 GMT</datelastmodified>
+			<userlastmodified>Admin</userlastmodified>
+			<datecreated>Tue, 07 Mar 2006 08:41:14 GMT</datecreated>
+			<usercreated>Admin</usercreated>
+			<flags>0</flags>
+			<properties/>
+			<relations/>
+			<accesscontrol/>
+		</file>
+		<file>
+			<source>system/workplace/resources/components/js_calendar/lang/calendar-cs.js</source>
+			<destination>system/workplace/resources/components/js_calendar/lang/calendar-cs.js</destination>
+			<type>plain</type>
+			<uuidstructure>7fc46780-bf25-11e3-87fe-911173adac73</uuidstructure>
+			<uuidresource>7fc46781-bf25-11e3-87fe-911173adac73</uuidresource>
+			<datelastmodified>Tue, 08 Apr 2014 13:55:53 GMT</datelastmodified>
+			<userlastmodified>msach</userlastmodified>
+			<datecreated>Tue, 08 Apr 2014 13:55:53 GMT</datecreated>
+			<usercreated>msach</usercreated>
+			<flags>0</flags>
+			<properties>
+				<property>
+					<name>Title</name>
+				<value><![CDATA[calendar-cs]]></value>
 				</property>
 			</properties>
 			<relations/>

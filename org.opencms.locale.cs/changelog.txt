@@ -1,3 +1,12 @@
+------------------------------------
+# 06.05.2014 - Miroslav Šach
+ úpravy v souborech: 
+
+(Pøidání souboru)
+ \system\workplace\resources\components\js_calendar\lang\calendar-cs.js 
+ 
+------------------------------------
+
 # 21.05.2013 - Filip Kratochvil
 - pøidána lokalizace pro editor TinyMCE
 - oprava souboru manifest.xml
